@@ -24,4 +24,31 @@
 
 /* Posititoning Classes */
 
+h2.milk_text {
+  margin-top: 10px;
+}
+
+.col-1 {
+  float: left;
+  width: 32%;
+  background: #fff;
+}
+
+.col-2 {
+  float: left;
+  width: 66%;
+  background: #fff;
+}
+
+[class*="col-"] {
+  margin-left: 2%;
+}
+
+.first {
+  margin-left: 0%;
+}
+
+.space-above {
+  margin-top: 2%;
+}
 
